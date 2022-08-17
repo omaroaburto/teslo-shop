@@ -4,6 +4,10 @@
 .env
 /postgres
 /.vscode
+*.jpeg
+*.jpg
+*.png
+*.gif
 # Logs
 logs
 *.log
